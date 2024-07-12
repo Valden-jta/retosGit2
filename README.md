@@ -54,6 +54,7 @@ Y con esto finaliza la creación de un repositorio utilizando el comando *git in
 
 # archivo .gitignore
 
+
 Hemos creado un fichero __.gitignore__, en el que especificamos que no se puede subir la carpeta retos_2. Como en commits anteriores
 habiamos subido la carpeta, esa carpeta esta presente en el repositorio en la nube, pero al volver a hacer un commit, vemos que sigue estando ahí.
 Al entrar en la carpeta, podemos ver que las últimas capturas de pantalla añadidas a la carpeta, no están, ya que al marcar esta carpeta en el fichero .gitignore,
