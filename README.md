@@ -49,3 +49,5 @@ git push
 ```
 Si nos dirigimos a nuestro repositorio en GitHub, podremos ver que ya está actualizado con los datos del repositorio local
 ![Repositorios sincronizados](./retos_2/5%20-%20Repositorios%20sincronizados.png)
+
+Y con esto finaliza la creación de un repositorio utilizando el comando *git init*
